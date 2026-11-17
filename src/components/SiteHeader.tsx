@@ -74,9 +74,9 @@ export function SiteHeader({ locale, nav, brand, ctaLabel, ctaHref, labels }: Pr
         {labels.skip}
       </a>
       <div className="container-x flex items-center gap-4">
-        <Link href={`/${locale}`} className="flex shrink-0 items-center gap-2.5" aria-label={brand}>
-          <Image src="/images/brand/emblem-transparent.png" alt="" width={44} height={44} priority className="size-11" />
-          <span className="text-lg font-extrabold tracking-wide text-ink">XALQARO TA&apos;LIM</span>
+        <Link href={`/${locale}`} className="flex shrink-0 items-center gap-2 sm:gap-2.5" aria-label={brand}>
+          <Image src="/images/brand/emblem-transparent.png" alt="" width={44} height={44} priority className="size-9 sm:size-11" />
+          <span className="text-[15px] font-extrabold tracking-wide whitespace-nowrap text-ink sm:text-lg">XALQARO TA&apos;LIM</span>
         </Link>
 
         <nav className="mx-auto hidden xl:block" aria-label="Main">
@@ -97,7 +97,7 @@ export function SiteHeader({ locale, nav, brand, ctaLabel, ctaHref, labels }: Pr
           </ul>
         </nav>
 
-        <div className="ml-auto flex items-center gap-2 xl:ml-0">
+        <div className="ml-auto flex items-center gap-1.5 sm:gap-2 xl:ml-0">
           <div className="relative" ref={langRef}>
             <button
               type="button"
@@ -105,11 +105,11 @@ export function SiteHeader({ locale, nav, brand, ctaLabel, ctaHref, labels }: Pr
               aria-expanded={langOpen}
               aria-haspopup="menu"
               aria-label={labels.language}
-              className="flex items-center gap-1.5 rounded-full bg-surface px-3.5 py-2 text-sm font-semibold text-ink shadow-sm transition hover:bg-slate-200"
+              className="flex items-center gap-1.5 rounded-full bg-surface px-2.5 py-2 text-sm font-semibold text-ink shadow-sm transition hover:bg-slate-200 sm:px-3.5"
             >
               <i className="bi bi-globe2" aria-hidden />
               {localeShort[locale]}
-              <i className={`bi bi-chevron-down text-xs transition-transform ${langOpen ? "rotate-180" : ""}`} aria-hidden />
+              <i className={`bi bi-chevron-down hidden text-xs transition-transform sm:inline ${langOpen ? "rotate-180" : ""}`} aria-hidden />
             </button>
             {langOpen && (
               <ul
@@ -140,9 +140,13 @@ export function SiteHeader({ locale, nav, brand, ctaLabel, ctaHref, labels }: Pr
             href={ctaHref}
             target="_blank"
             rel="noopener noreferrer"
-            className="btn-primary hidden px-5 py-2.5 text-sm whitespace-nowrap md:inline-flex"
+            aria-label={ctaLabel}
+            title={ctaLabel}
+            className="btn-primary hidden px-5 py-2.5 text-sm whitespace-nowrap md:inline-flex xl:px-3.5 2xl:px-5"
           >
-            <i className="bi bi-telegram" aria-hidden /> {ctaLabel}
+            <i className="bi bi-telegram" aria-hidden />
+            {/* on 1280–1535px the full menu is visible, so the button shows only its icon */}
+            <span className="xl:hidden 2xl:inline">{ctaLabel}</span>
           </a>
 
           <button
