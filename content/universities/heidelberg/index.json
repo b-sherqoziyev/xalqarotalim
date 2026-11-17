@@ -1,0 +1,16 @@
+{
+  "id": "heidelberg",
+  "country": "germany",
+  "city": "Heidelberg",
+  "nativeName": "Ruprecht-Karls-Universität Heidelberg",
+  "order": 2,
+  "name": {
+    "ru": "Хайдельбергский университет",
+    "en": "University of Heidelberg"
+  },
+  "cover": "/images/universities/heidelberg/40303692.webp",
+  "legacy": {
+    "ru": "/ru/2024_43_ge/heidelberg/rkuh/",
+    "en": "/en/2024_43_ge/heidelberg/rkuh/"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nevsehir-haci-bektas-veli",
+  "country": "turkey",
+  "city": "Nevşehir",
+  "nativeName": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+  "order": 16,
+  "name": {
+    "uz": "Nevshehir Hoji Bektoshi Veli Universiteti",
+    "uz-cyrl": "Невшеҳир Ҳожи Бектоши Вели Университети"
+  },
+  "cover": "/images/universities/nevsehir-haci-bektas-veli/40144022.webp",
+  "legacy": {
+    "uz": "/uzl/2024_23_nevshehir_nhbvu/",
+    "uz-cyrl": "/uzk/2024_23_nevshehir_nhbvu/"
+  }
+}

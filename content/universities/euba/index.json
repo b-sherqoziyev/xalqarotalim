@@ -1,0 +1,16 @@
+{
+  "id": "euba",
+  "country": "slovakia",
+  "city": "Bratislava",
+  "nativeName": "Ekonomická univerzita v Bratislave",
+  "order": 3,
+  "name": {
+    "ru": "Экономический университет в Братиславе",
+    "en": "University of Economics in Bratislava"
+  },
+  "cover": "/images/universities/euba/40380023.webp",
+  "legacy": {
+    "ru": "/ru/2024_56/sk/bratislava/eub/",
+    "en": "/en/2024_56/sk/bratislava/eub/"
+  }
+}

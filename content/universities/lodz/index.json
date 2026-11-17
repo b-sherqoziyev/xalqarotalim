@@ -1,0 +1,16 @@
+{
+  "id": "lodz",
+  "country": "poland",
+  "city": "Łódź",
+  "nativeName": "Uniwersytet Łódzki",
+  "order": 4,
+  "name": {
+    "ru": "Университет Лодзины",
+    "en": "University of Lodz"
+  },
+  "cover": "/images/universities/lodz/40373591.webp",
+  "legacy": {
+    "ru": "/ru/2024_53/pl/lodz/ul/",
+    "en": "/en/2024_53/pl/lodz/ul/"
+  }
+}

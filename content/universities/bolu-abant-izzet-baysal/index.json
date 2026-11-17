@@ -1,0 +1,16 @@
+{
+  "id": "bolu-abant-izzet-baysal",
+  "country": "turkey",
+  "city": "Bolu",
+  "nativeName": "Bolu Abant İzzet Baysal Üniversitesi",
+  "order": 13,
+  "name": {
+    "uz": "Bolu Abant Izzet Baysal Universiteti",
+    "uz-cyrl": "Болу Абант Иззет Байсал Университети"
+  },
+  "cover": "/images/universities/bolu-abant-izzet-baysal/40134775.webp",
+  "legacy": {
+    "uz": "/uzl/2024_17_bolu_baibu/",
+    "uz-cyrl": "/uzk/2024_17_bolu_baibu/"
+  }
+}

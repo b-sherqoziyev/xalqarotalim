@@ -1,0 +1,14 @@
+{
+  "id": "turkey-religious-grants",
+  "country": "turkey",
+  "order": 2,
+  "name": {
+    "uz": "Turkiya Diniy Grantlari",
+    "uz-cyrl": "Туркия Диний Грантлари"
+  },
+  "cover": "/images/scholarships/turkey-religious-grants/40135451.webp",
+  "legacy": {
+    "uz": "/uzl/2024_18_db/",
+    "uz-cyrl": "/uzk/2024_18_db/"
+  }
+}

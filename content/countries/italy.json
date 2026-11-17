@@ -1,0 +1,12 @@
+{
+  "id": "italy",
+  "order": 4,
+  "name": {
+    "uz": "Italiya",
+    "uz-cyrl": "Италия",
+    "ru": "Италия",
+    "en": "Italy",
+    "tr": "İtalya"
+  },
+  "cover": "/images/countries/italy.webp"
+}

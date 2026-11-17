@@ -1,0 +1,16 @@
+{
+  "id": "eskisehir-osmangazi",
+  "country": "turkey",
+  "city": "Eskişehir",
+  "nativeName": "Eskişehir Osmangazi Üniversitesi",
+  "order": 14,
+  "name": {
+    "uz": "Eskishehir Osmangazi Universiteti",
+    "uz-cyrl": "Эскишеҳир Османгази Университети"
+  },
+  "cover": "/images/universities/eskisehir-osmangazi/40145027.webp",
+  "legacy": {
+    "uz": "/uzl/2024_25_eskishehir_eou/",
+    "uz-cyrl": "/uzk/2024_25_eskishehir_eou/"
+  }
+}

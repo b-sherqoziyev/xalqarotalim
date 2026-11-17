@@ -1,0 +1,16 @@
+{
+  "id": "ludovika",
+  "country": "hungary",
+  "city": "Budapest",
+  "nativeName": "Nemzeti Közszolgálati Egyetem (Ludovika)",
+  "order": 3,
+  "name": {
+    "ru": "Университет государственной службы Людовика (Будапешт)",
+    "en": "Louis University of Public Service (Budapest)"
+  },
+  "cover": "/images/universities/ludovika/40293481.webp",
+  "legacy": {
+    "ru": "/ru/2024_40_hu/budapest/nkel/",
+    "en": "/en/2024_40_hu/budapest/nkel/"
+  }
+}

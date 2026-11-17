@@ -1,0 +1,12 @@
+{
+  "id": "czechia",
+  "order": 5,
+  "name": {
+    "uz": "Chexiya",
+    "uz-cyrl": "Чехия",
+    "ru": "Чехия",
+    "en": "Czech Republic",
+    "tr": "Çekya"
+  },
+  "cover": "/images/countries/czechia.webp"
+}

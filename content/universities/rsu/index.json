@@ -1,0 +1,16 @@
+{
+  "id": "rsu",
+  "country": "latvia",
+  "city": "Rīga",
+  "nativeName": "Rīgas Stradiņa universitāte",
+  "order": 3,
+  "name": {
+    "ru": "Рижский университет имени Страдыня",
+    "en": "Riga Stradina University"
+  },
+  "cover": "/images/universities/rsu/40310181.webp",
+  "legacy": {
+    "ru": "/ru/2024_46/lv/riga/rsu/",
+    "en": "/en/2024_46/lv/riga/rsu/"
+  }
+}

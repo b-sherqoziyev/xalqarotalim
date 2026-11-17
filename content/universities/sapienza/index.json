@@ -1,0 +1,16 @@
+{
+  "id": "sapienza",
+  "country": "italy",
+  "city": "Roma",
+  "nativeName": "Sapienza Università di Roma",
+  "order": 2,
+  "name": {
+    "ru": "Римский университет Сапиенца (Мудрость)",
+    "en": "Sapienza University of Rome (Wisdom)"
+  },
+  "cover": "/images/universities/sapienza/40205006.webp",
+  "legacy": {
+    "ru": "/ru/2024_37/it/rome/sur/",
+    "en": "/en/2024_37/it/rome/sur/"
+  }
+}

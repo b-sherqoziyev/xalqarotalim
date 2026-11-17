@@ -1,0 +1,12 @@
+{
+  "id": "hungary",
+  "order": 8,
+  "name": {
+    "uz": "Vengriya",
+    "uz-cyrl": "Венгрия",
+    "ru": "Венгрия",
+    "en": "Hungary",
+    "tr": "Macaristan"
+  },
+  "cover": "/images/countries/hungary.webp"
+}

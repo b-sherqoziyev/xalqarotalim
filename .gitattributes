@@ -1,0 +1,13 @@
+# Windows va Linux/Vercel o'rtasida satr oxirlari (CRLF/LF) chalkashmasligi uchun
+* text=auto eol=lf
+
+# rasmlar va boshqa ikkilik fayllar o'zgartirilmaydi
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.avif binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary

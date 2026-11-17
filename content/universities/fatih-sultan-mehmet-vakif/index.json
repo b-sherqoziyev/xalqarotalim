@@ -1,0 +1,16 @@
+{
+  "id": "fatih-sultan-mehmet-vakif",
+  "country": "turkey",
+  "city": "İstanbul",
+  "nativeName": "İstanbul Fatih Sultan Mehmet Vakıf Üniversitesi",
+  "order": 5,
+  "name": {
+    "uz": "Istanbul Fatih Sultan Mehmet Vakif Universiteti",
+    "uz-cyrl": "Истанбул Фатиҳ Султан Меҳмет Вакиф Университети"
+  },
+  "cover": "/images/universities/fatih-sultan-mehmet-vakif/40127477.webp",
+  "legacy": {
+    "uz": "/uzl/2024_14_istanbul_fsmvu/",
+    "uz-cyrl": "/uzk/2024_14_istanbul_fsmvu/"
+  }
+}

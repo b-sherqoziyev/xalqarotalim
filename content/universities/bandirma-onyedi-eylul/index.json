@@ -1,0 +1,16 @@
+{
+  "id": "bandirma-onyedi-eylul",
+  "country": "turkey",
+  "city": "Balıkesir",
+  "nativeName": "Bandırma Onyedi Eylül Üniversitesi",
+  "order": 12,
+  "name": {
+    "uz": "Balikesir Bandirma Onyedi Eylul Universiteti",
+    "uz-cyrl": "Баликесир Бандирма Онеди Эйлул Университети"
+  },
+  "cover": "/images/universities/bandirma-onyedi-eylul/40134500.webp",
+  "legacy": {
+    "uz": "/uzl/2024_16_balikesir_boeu/",
+    "uz-cyrl": "/uzk/2024_16_balikesir_boeu/"
+  }
+}

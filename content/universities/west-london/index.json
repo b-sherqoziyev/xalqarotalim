@@ -1,0 +1,16 @@
+{
+  "id": "west-london",
+  "country": "uk",
+  "city": "London",
+  "nativeName": "University of West London",
+  "order": 2,
+  "name": {
+    "ru": "Университет Западного Лондона",
+    "en": "University of West London"
+  },
+  "cover": "/images/universities/west-london/40191023.webp",
+  "legacy": {
+    "ru": "/ru/2024_34/gb/london/uwl/",
+    "en": "/en/2024_34/gb/london/uwl/"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "anadolu",
+  "country": "turkey",
+  "city": "Eskişehir",
+  "nativeName": "Anadolu Üniversitesi",
+  "order": 11,
+  "name": {
+    "uz": "Anadolu Universiteti",
+    "uz-cyrl": "Анадолу Университети"
+  },
+  "cover": "/images/universities/anadolu/40146339.webp",
+  "legacy": {
+    "uz": "/uzl/2024_26_anadolu_au/",
+    "uz-cyrl": "/uzk/2024_26_anadolu_au/"
+  }
+}

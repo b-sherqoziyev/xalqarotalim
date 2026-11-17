@@ -1,0 +1,13 @@
+{
+  "id": "turkey-scholarships-announcement",
+  "order": 8,
+  "name": {
+    "ru": "Горячие объявления",
+    "en": "Hot Announcements"
+  },
+  "cover": null,
+  "legacy": {
+    "ru": "/ru/announcements/",
+    "en": "/en/announcements/"
+  }
+}

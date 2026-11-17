@@ -1,0 +1,18 @@
+{
+  "id": "karabuk",
+  "country": "turkey",
+  "city": "Karabük",
+  "nativeName": "Karabük Üniversitesi",
+  "order": 15,
+  "name": {
+    "uz": "Karabuk Universiteti",
+    "uz-cyrl": "Карабук Университети",
+    "ru": "Карабукский Университет"
+  },
+  "cover": "/images/universities/karabuk/40126553.webp",
+  "legacy": {
+    "uz": "/uzl/2024_13_karabuk_karabuk/",
+    "uz-cyrl": "/uzk/2024_13_karabuk_karabuk/",
+    "ru": "/ru/2024_13_karabuk_karabuk/"
+  }
+}

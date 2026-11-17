@@ -1,0 +1,12 @@
+{
+  "id": "latvia",
+  "order": 6,
+  "name": {
+    "uz": "Latviya",
+    "uz-cyrl": "Латвия",
+    "ru": "Латвия",
+    "en": "Latvia",
+    "tr": "Letonya"
+  },
+  "cover": "/images/countries/latvia.webp"
+}

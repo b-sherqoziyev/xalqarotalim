@@ -1,0 +1,16 @@
+{
+  "id": "bme",
+  "country": "hungary",
+  "city": "Budapest",
+  "nativeName": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+  "order": 1,
+  "name": {
+    "ru": "Будапештский Университет Технологии и Экономики",
+    "en": "Budapest University of Technology and Economics"
+  },
+  "cover": "/images/universities/bme/40095973.webp",
+  "legacy": {
+    "ru": "/ru/2024_5_hu/budapest/bute/",
+    "en": "/en/2024_5_hu/budapest/bute/"
+  }
+}

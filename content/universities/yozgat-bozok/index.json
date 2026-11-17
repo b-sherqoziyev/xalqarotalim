@@ -1,0 +1,16 @@
+{
+  "id": "yozgat-bozok",
+  "country": "turkey",
+  "city": "Yozgat",
+  "nativeName": "Yozgat Bozok Üniversitesi",
+  "order": 18,
+  "name": {
+    "uz": "Yozgat Bozok Universiteti",
+    "uz-cyrl": "Ёзгат Бозок Университети"
+  },
+  "cover": "/images/universities/yozgat-bozok/40144126.webp",
+  "legacy": {
+    "uz": "/uzl/2024_24_yozgat_ybu/",
+    "uz-cyrl": "/uzk/2024_24_yozgat_ybu/"
+  }
+}

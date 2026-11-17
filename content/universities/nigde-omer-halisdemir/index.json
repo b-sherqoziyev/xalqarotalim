@@ -1,0 +1,16 @@
+{
+  "id": "nigde-omer-halisdemir",
+  "country": "turkey",
+  "city": "Niğde",
+  "nativeName": "Niğde Ömer Halisdemir Üniversitesi",
+  "order": 7,
+  "name": {
+    "uz": "Istanbul Nig’de O’mer Halisdemir Universiteti",
+    "uz-cyrl": "Истанбул Ниғде Ўмер Ҳалисдемир Университети"
+  },
+  "cover": "/images/universities/nigde-omer-halisdemir/40133217.webp",
+  "legacy": {
+    "uz": "/uzl/2024_15_istanbul_nohu/",
+    "uz-cyrl": "/uzk/2024_15_istanbul_nohu/"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "siteName": "Xalqaro Ta'lim",
+  "siteUrl": "https://xalqarotalim.uz",
+  "phones": ["+998 90 911 50 59", "+998 90 911 56 59"],
+  "email": "xalqaro.talim@gmail.com",
+  "telegram": "https://t.me/XalqaroTalimMarkazi",
+  "whatsapp": "https://wa.me/998909115059",
+  "managers": {
+    "education": "https://t.me/Yoqub_TA",
+    "translations": "https://t.me/Sultonim_Bolam"
+  },
+  "socials": [
+    { "id": "telegram", "label": "Telegram", "url": "https://t.me/XalqaroTalimMarkazi" },
+    { "id": "instagram", "label": "Instagram", "url": "https://instagram.com/xalqaro.talim/" },
+    { "id": "facebook", "label": "Facebook", "url": "https://facebook.com/profile.php?id=100073586359619" },
+    { "id": "youtube", "label": "YouTube", "url": "https://youtube.com/channel/UC2dgFPCnmJwce6LX3q8tLBw" },
+    { "id": "whatsapp", "label": "WhatsApp", "url": "https://wa.me/998909115059" },
+    { "id": "ok", "label": "Odnoklassniki", "url": "https://ok.ru/profile/588109566119" },
+    { "id": "blog", "label": "Blog", "url": "https://xalqarotalim.blogspot.com/" }
+  ],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d849.9484575661504!2d69.28923700460547!3d41.3038979015446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38aef51849ad2999%3A0xb23170e598ae1321!2sXALQARO%20TA'LIM%20%2F%20XIZMATLAR%20DUNYOSI!5e0!3m2!1sru!2s!4v1710233705941!5m2!1sru!2s",
+  "mapLink": "https://www.google.com/maps/search/?api=1&query=41.3038979015446,69.28923700460547",
+  "tagline": {
+    "uz": "Xorijda ta'lim olish bo'yicha maslahat markazi",
+    "uz-cyrl": "Хорижда таълим олиш бўйича маслаҳат маркази",
+    "ru": "Центр консультаций и поддержки по образованию за рубежом",
+    "en": "Consultation and Support Center for education abroad",
+    "tr": "Yurtdışında Eğitim Hakkında Danışma ve Destek Merkezi"
+  },
+  "address": {
+    "uz": "1-qavat, 68-uy, Sodiq Azimov ko'chasi, Yashnobod tumani, Toshkent shahri, O'zbekiston, 100047",
+    "uz-cyrl": "1-қават, 68-уй, Содиқ Азимов кўчаси, Яшнобод тумани, Тошкент шаҳри, Ўзбекистон, 100047",
+    "ru": "Этаж 1, дом 68, улица Садыка Азимова, Яшнабадский район, г. Ташкент, Узбекистан, 100047",
+    "en": "Level 1, House 68, Sadik Azimov street, Yashnobod district, Tashkent, Uzbekistan, 100047",
+    "tr": "Kat 1, Ev No. 68, Sadik Azimov Caddesi, Yaşnobod ilçesi, Taşkent, Özbekistan, 100047"
+  },
+  "workingHours": {
+    "uz": "Dushanba–juma 09:00–18:00, shanba 09:00–15:00",
+    "uz-cyrl": "Душанба–жума 09:00–18:00, шанба 09:00–15:00",
+    "ru": "Пн–Пт 09:00–18:00, Сб 09:00–15:00",
+    "en": "Mon–Fri 09:00–18:00, Sat 09:00–15:00",
+    "tr": "Pzt–Cum 09:00–18:00, Cmt 09:00–15:00"
+  },
+  "stats": [
+    { "value": "5+", "label": "stat_years" },
+    { "value": "1000+", "label": "stat_students" }
+  ]
+}

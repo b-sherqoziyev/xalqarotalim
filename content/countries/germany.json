@@ -1,0 +1,12 @@
+{
+  "id": "germany",
+  "order": 3,
+  "name": {
+    "uz": "Germaniya",
+    "uz-cyrl": "Германия",
+    "ru": "Германия",
+    "en": "Germany",
+    "tr": "Almanya"
+  },
+  "cover": "/images/countries/germany.webp"
+}

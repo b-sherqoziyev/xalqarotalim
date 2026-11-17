@@ -1,0 +1,16 @@
+{
+  "id": "erzincan-binali-yildirim",
+  "country": "turkey",
+  "city": "Erzincan",
+  "nativeName": "Erzincan Binali Yıldırım Üniversitesi",
+  "order": 10,
+  "name": {
+    "uz": "Anadolu Erzincan Binali Yildirim Universiteti",
+    "uz-cyrl": "Анадолу Эрзинcан Бинали Йилдирим Университети"
+  },
+  "cover": "/images/universities/erzincan-binali-yildirim/40143788.webp",
+  "legacy": {
+    "uz": "/uzl/2024_21_anadolu_ebyu/",
+    "uz-cyrl": "/uzk/2024_21_anadolu_ebyu/"
+  }
+}

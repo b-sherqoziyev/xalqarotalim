@@ -1,0 +1,16 @@
+{
+  "id": "matej-bel",
+  "country": "slovakia",
+  "city": "Banská Bystrica",
+  "nativeName": "Univerzita Mateja Bela v Banskej Bystrici",
+  "order": 2,
+  "name": {
+    "ru": "Университет Матея Бела",
+    "en": "Mateja Bela University"
+  },
+  "cover": "/images/universities/matej-bel/40379302.webp",
+  "legacy": {
+    "ru": "/ru/2024_55/sk/banska-bistrica/umbbb/",
+    "en": "/en/2024_55/sk/banska-bistrica/umbbb/"
+  }
+}

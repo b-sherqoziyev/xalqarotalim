@@ -1,0 +1,12 @@
+{
+  "id": "turkey",
+  "order": 1,
+  "name": {
+    "uz": "Turkiya",
+    "uz-cyrl": "Туркия",
+    "ru": "Турция",
+    "en": "Turkey",
+    "tr": "Türkiye"
+  },
+  "cover": "/images/countries/turkey.webp"
+}

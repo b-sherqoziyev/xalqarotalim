@@ -1,0 +1,16 @@
+{
+  "id": "politecnico-milano",
+  "country": "italy",
+  "city": "Milano",
+  "nativeName": "Politecnico di Milano",
+  "order": 3,
+  "name": {
+    "ru": "Политехнический университет Милана 1863",
+    "en": "Polytechnic University of Milan 1863"
+  },
+  "cover": "/images/universities/politecnico-milano/40367522.webp",
+  "legacy": {
+    "ru": "/ru/2024_48/it/milan/pm/",
+    "en": "/en/2024_48/it/milan/pm/"
+  }
+}

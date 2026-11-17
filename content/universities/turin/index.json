@@ -1,0 +1,16 @@
+{
+  "id": "turin",
+  "country": "italy",
+  "city": "Torino",
+  "nativeName": "Università degli Studi di Torino",
+  "order": 1,
+  "name": {
+    "ru": "Университет Турина",
+    "en": "University of Turin"
+  },
+  "cover": "/images/universities/turin/40198219.webp",
+  "legacy": {
+    "ru": "/ru/2024_35/it/turin/ut/",
+    "en": "/en/2024_35/it/turin/ut/"
+  }
+}

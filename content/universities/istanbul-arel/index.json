@@ -1,0 +1,18 @@
+{
+  "id": "istanbul-arel",
+  "country": "turkey",
+  "city": "İstanbul",
+  "nativeName": "İstanbul Arel Üniversitesi",
+  "order": 2,
+  "name": {
+    "uz": "Istanbul Arel Universiteti",
+    "uz-cyrl": "Истанбул Арел Университети",
+    "ru": "Стамбульский Университет Арель"
+  },
+  "cover": "/images/universities/istanbul-arel/40125156.webp",
+  "legacy": {
+    "uz": "/uzl/2024_11_arel_istanbul/",
+    "uz-cyrl": "/uzk/2024_11_arel_istanbul/",
+    "ru": "/ru/2024_11_arel_istanbul/"
+  }
+}

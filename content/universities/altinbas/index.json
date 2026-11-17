@@ -1,0 +1,18 @@
+{
+  "id": "altinbas",
+  "country": "turkey",
+  "city": "İstanbul",
+  "nativeName": "İstanbul Altınbaş Üniversitesi",
+  "order": 1,
+  "name": {
+    "uz": "Istanbul Altinbash Universiteti",
+    "uz-cyrl": "Истанбул Алтинбаш Университети",
+    "ru": "Алтынбашский Университет в Стамбуле"
+  },
+  "cover": "/images/universities/altinbas/40123936.webp",
+  "legacy": {
+    "uz": "/uzl/2024_8_altinbash_istanbul/",
+    "uz-cyrl": "/uzk/2024_8_altinbash_istanbul/",
+    "ru": "/ru/2024_8_altinbash_istanbul/"
+  }
+}

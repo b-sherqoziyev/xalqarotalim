@@ -1,0 +1,16 @@
+{
+  "id": "hamburg",
+  "country": "germany",
+  "city": "Hamburg",
+  "nativeName": "Universität Hamburg",
+  "order": 4,
+  "name": {
+    "ru": "Гамбургский университет",
+    "en": "University of Hamburg"
+  },
+  "cover": "/images/universities/hamburg/40304806.webp",
+  "legacy": {
+    "ru": "/ru/2024_45_ge/hamburg/uh/",
+    "en": "/en/2024_45_ge/hamburg/uh/"
+  }
+}

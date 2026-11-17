@@ -1,0 +1,180 @@
+@import "tailwindcss";
+@import "@fontsource-variable/inter";
+@import "bootstrap-icons/font/bootstrap-icons.min.css";
+
+/* Design tokens — taken from the xizmatlar-site reference (Bootstrap blue, Inter, rounded cards)
+   with the amber accent of the Xalqaro Ta'lim logo. */
+@theme {
+  --font-sans: "Inter Variable", "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  --color-primary: #0d6efd;
+  --color-primary-600: #0b5ed7;
+  --color-primary-700: #0a58ca;
+  --color-primary-800: #0056b3;
+  --color-primary-50: #eef4ff;
+  --color-accent: #f0a91a;
+  --color-success: #198754;
+  --color-ink: #212529;
+  --color-muted: #6c757d;
+  --color-surface: #f8f9fa;
+  --color-navy: #1b2130;
+
+  --shadow-card: 0 0.125rem 0.25rem rgb(0 0 0 / 0.075);
+  --shadow-lift: 0 1rem 3rem rgb(0 0 0 / 0.08);
+  --shadow-glow: 0 8px 25px rgb(13 110 253 / 0.35);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5.5rem;
+  }
+  body {
+    @apply bg-white font-sans text-[#333] antialiased;
+  }
+  ::selection {
+    background: rgb(13 110 253 / 0.18);
+  }
+  :focus-visible {
+    outline: 3px solid rgb(13 110 253 / 0.45);
+    outline-offset: 2px;
+  }
+}
+
+@utility container-x {
+  @apply mx-auto w-full max-w-[1200px] px-4 sm:px-6;
+}
+@utility eyebrow {
+  @apply text-sm font-bold tracking-[0.1em] text-primary uppercase;
+}
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 font-semibold transition-all duration-300 hover:-translate-y-0.5;
+}
+@utility card {
+  @apply rounded-2xl bg-white shadow-[var(--shadow-card)];
+}
+@utility card-hover {
+  @apply transition-all duration-300 hover:-translate-y-2 hover:shadow-[var(--shadow-lift)];
+}
+@utility icon-box {
+  @apply flex size-[70px] shrink-0 items-center justify-center rounded-full text-3xl;
+}
+
+@layer components {
+  .btn-primary {
+    @apply btn text-white;
+    background: linear-gradient(135deg, var(--color-primary), var(--color-primary-800));
+    box-shadow: var(--shadow-glow);
+  }
+  .btn-primary:hover {
+    background: linear-gradient(135deg, var(--color-primary-800), #004085);
+    box-shadow: 0 12px 30px rgb(13 110 253 / 0.45);
+  }
+  .btn-outline {
+    @apply btn border-2 border-primary text-primary hover:bg-primary hover:text-white;
+  }
+  .btn-glass {
+    @apply btn border-2 border-white text-white backdrop-blur-md hover:bg-white hover:text-primary;
+    background: rgb(255 255 255 / 0.1);
+  }
+  .btn-light {
+    @apply btn bg-white text-primary shadow-md hover:shadow-lg;
+  }
+}
+
+/* ------------------------------------------------------------------ long-form content (Markdown) */
+.content {
+  @apply text-[1.0625rem] leading-[1.8] text-[#495057];
+}
+.content > * + * {
+  margin-top: 1.1em;
+}
+.content h2 {
+  @apply mt-10 text-2xl font-bold leading-snug text-ink;
+}
+.content h3 {
+  @apply mt-8 text-xl font-bold leading-snug text-ink;
+}
+.content h4 {
+  @apply mt-6 text-lg font-semibold text-ink;
+}
+.content strong {
+  @apply font-semibold text-ink;
+}
+.content a {
+  @apply font-medium text-primary underline decoration-primary/30 underline-offset-4 hover:decoration-primary;
+  overflow-wrap: anywhere;
+}
+.content ul,
+.content ol {
+  @apply space-y-1.5 pl-6;
+}
+.content ul {
+  list-style: none;
+}
+.content ul > li {
+  position: relative;
+}
+.content ul > li::before {
+  content: "";
+  position: absolute;
+  left: -1.1rem;
+  top: 0.72em;
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 9999px;
+  background: var(--color-primary);
+}
+.content ol {
+  list-style: decimal;
+}
+.content ol > li::marker {
+  @apply font-semibold text-primary;
+}
+.content li > ul,
+.content li > ol {
+  margin-top: 0.4em;
+}
+.content hr {
+  @apply my-10 border-slate-200;
+}
+.content blockquote {
+  @apply border-l-4 border-primary bg-primary-50 px-5 py-3 italic;
+}
+.content .table-wrap {
+  @apply overflow-x-auto rounded-xl border border-slate-200 shadow-[var(--shadow-card)];
+}
+.content table {
+  @apply w-full min-w-[520px] border-collapse text-[0.95rem] leading-normal;
+}
+.content thead th {
+  @apply bg-primary-50 px-4 py-3 text-left font-semibold text-ink;
+}
+.content td {
+  @apply border-t border-slate-200 px-4 py-2.5 align-top;
+}
+.content tbody tr:nth-child(even) {
+  @apply bg-surface;
+}
+.content figure img,
+.content p > img {
+  @apply rounded-2xl shadow-[var(--shadow-card)];
+}
+.content .embed {
+  @apply relative aspect-video overflow-hidden rounded-2xl shadow-[var(--shadow-card)];
+}
+.content .embed iframe {
+  @apply absolute inset-0 size-full;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}

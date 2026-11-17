@@ -1,0 +1,16 @@
+{
+  "id": "humboldt-berlin",
+  "country": "germany",
+  "city": "Berlin",
+  "nativeName": "Humboldt-Universität zu Berlin",
+  "order": 3,
+  "name": {
+    "ru": "Университет Гумбольдта Берлин",
+    "en": "Humboldt University Berlin"
+  },
+  "cover": "/images/universities/humboldt-berlin/40304467.webp",
+  "legacy": {
+    "ru": "/ru/2024_44_ge/berlin/huzb/",
+    "en": "/en/2024_44_ge/berlin/huzb/"
+  }
+}

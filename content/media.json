@@ -1,0 +1,632 @@
+{
+  "/images/news/consulting-benefits/40178048.webp": {
+    "height": 520,
+    "legacyId": "40178048.png",
+    "width": 745
+  },
+  "/images/news/for-those-who-want-to-study-abroad/40159749.webp": {
+    "height": 318,
+    "legacyId": "40159749.jpg",
+    "width": 607
+  },
+  "/images/news/for-those-who-want-to-study-abroad/40159762.webp": {
+    "height": 403,
+    "legacyId": "40159762.jpg",
+    "width": 604
+  },
+  "/images/news/for-those-who-want-to-study-abroad/40159792.webp": {
+    "height": 400,
+    "legacyId": "40159792.jpg",
+    "width": 600
+  },
+  "/images/news/for-those-who-want-to-study-abroad/40159804.webp": {
+    "height": 405,
+    "legacyId": "40159804.jpg",
+    "width": 608
+  },
+  "/images/news/for-those-who-want-to-study-abroad/40159836.webp": {
+    "height": 413,
+    "legacyId": "40159836.jpg",
+    "width": 620
+  },
+  "/images/news/higher-education-in-turkey/40175717.webp": {
+    "height": 360,
+    "legacyId": "40175717.jpg",
+    "width": 636
+  },
+  "/images/news/higher-education-in-turkey/40175723.webp": {
+    "height": 412,
+    "legacyId": "40175723.jpg",
+    "width": 619
+  },
+  "/images/news/higher-education-in-turkey/40175728.webp": {
+    "height": 459,
+    "legacyId": "40175728.jpg",
+    "width": 652
+  },
+  "/images/news/higher-education-in-turkey/40175734.webp": {
+    "height": 337,
+    "legacyId": "40175734.jpg",
+    "width": 629
+  },
+  "/images/news/higher-education-in-turkey/40175743.webp": {
+    "height": 313,
+    "legacyId": "40175743.jpg",
+    "width": 625
+  },
+  "/images/news/masters-and-phd-in-turkey/40175411.webp": {
+    "height": 509,
+    "legacyId": "40175411.jpg",
+    "width": 610
+  },
+  "/images/news/study-in-turkey-2024-2025/40424311.webp": {
+    "height": 1156,
+    "legacyId": "40424311.png",
+    "width": 1600
+  },
+  "/images/news/turkey-grants-2024-2025-continue/40178817.webp": {
+    "height": 455,
+    "legacyId": "40178817.jpg",
+    "width": 682
+  },
+  "/images/news/turkey-state-grants-2024-2025/40143646.webp": {
+    "height": 525,
+    "legacyId": "40143646.jpg",
+    "width": 711
+  },
+  "/images/pages/contacts/23552707.webp": {
+    "height": 720,
+    "legacyId": "23552707.jpg",
+    "width": 1280
+  },
+  "/images/pages/translations/23171454.webp": {
+    "height": 1300,
+    "legacyId": "23171454.png",
+    "width": 1300
+  },
+  "/images/scholarships/grant-application/40136744.webp": {
+    "height": 447,
+    "legacyId": "40136744.png",
+    "width": 640
+  },
+  "/images/scholarships/turkey-religious-grants/40135451.webp": {
+    "height": 382,
+    "legacyId": "40135451.jpg",
+    "width": 680
+  },
+  "/images/scholarships/turkey-religious-grants/40135569.webp": {
+    "height": 320,
+    "legacyId": "40135569.jpg",
+    "width": 480
+  },
+  "/images/scholarships/turkey-religious-grants/40135585.webp": {
+    "height": 270,
+    "legacyId": "40135585.jpg",
+    "width": 480
+  },
+  "/images/scholarships/turkey-religious-grants/40135622.webp": {
+    "height": 424,
+    "legacyId": "40135622.jpg",
+    "width": 733
+  },
+  "/images/scholarships/turkey-religious-grants/40135682.webp": {
+    "height": 290,
+    "legacyId": "40135682.jpg",
+    "width": 804
+  },
+  "/images/scholarships/turkiye-burslari/40002143.webp": {
+    "height": 565,
+    "legacyId": "40002143.png",
+    "width": 850
+  },
+  "/images/scholarships/turkiye-burslari/40002209.webp": {
+    "height": 730,
+    "legacyId": "40002209.png",
+    "width": 1317
+  },
+  "/images/scholarships/turkiye-burslari/40002345.webp": {
+    "height": 713,
+    "legacyId": "40002345.png",
+    "width": 1316
+  },
+  "/images/scholarships/turkiye-burslari/40002394.webp": {
+    "height": 923,
+    "legacyId": "40002394.png",
+    "width": 1309
+  },
+  "/images/scholarships/turkiye-burslari/40002425.webp": {
+    "height": 850,
+    "legacyId": "40002425.png",
+    "width": 1308
+  },
+  "/images/universities/altinbas/40123936.webp": {
+    "height": 392,
+    "legacyId": "40123936.png",
+    "width": 697
+  },
+  "/images/universities/altinbas/40123953.webp": {
+    "height": 473,
+    "legacyId": "40123953.png",
+    "width": 709
+  },
+  "/images/universities/altinbas/40124009.webp": {
+    "height": 465,
+    "legacyId": "40124009.png",
+    "width": 698
+  },
+  "/images/universities/anadolu/40146339.webp": {
+    "height": 431,
+    "legacyId": "40146339.jpg",
+    "width": 689
+  },
+  "/images/universities/anadolu/40146355.webp": {
+    "height": 399,
+    "legacyId": "40146355.jpg",
+    "width": 600
+  },
+  "/images/universities/anadolu/40146369.webp": {
+    "height": 400,
+    "legacyId": "40146369.jpg",
+    "width": 600
+  },
+  "/images/universities/bandirma-onyedi-eylul/40134500.webp": {
+    "height": 323,
+    "legacyId": "40134500.png",
+    "width": 697
+  },
+  "/images/universities/beykent/40041913.webp": {
+    "height": 703,
+    "legacyId": "40041913.png",
+    "width": 1250
+  },
+  "/images/universities/beykent/40041960.webp": {
+    "height": 617,
+    "legacyId": "40041960.png",
+    "width": 1250
+  },
+  "/images/universities/beykent/40041971.webp": {
+    "height": 703,
+    "legacyId": "40041971.png",
+    "width": 1250
+  },
+  "/images/universities/beykoz/40175377.webp": {
+    "height": 413,
+    "legacyId": "40175377.jpg",
+    "width": 734
+  },
+  "/images/universities/beykoz/40175387.webp": {
+    "height": 562,
+    "legacyId": "40175387.jpg",
+    "width": 843
+  },
+  "/images/universities/beykoz/40175389.webp": {
+    "height": 475,
+    "legacyId": "40175389.jpg",
+    "width": 844
+  },
+  "/images/universities/bme/40095973.webp": {
+    "height": 784,
+    "legacyId": "40095973.png",
+    "width": 1600
+  },
+  "/images/universities/bolu-abant-izzet-baysal/40134775.webp": {
+    "height": 516,
+    "legacyId": "40134775.jpg",
+    "width": 689
+  },
+  "/images/universities/bolu-abant-izzet-baysal/40134791.webp": {
+    "height": 450,
+    "legacyId": "40134791.jpg",
+    "width": 676
+  },
+  "/images/universities/bolu-abant-izzet-baysal/40134806.webp": {
+    "height": 472,
+    "legacyId": "40134806.jpg",
+    "width": 709
+  },
+  "/images/universities/bolu-abant-izzet-baysal/40134862.webp": {
+    "height": 490,
+    "legacyId": "40134862.jpg",
+    "width": 740
+  },
+  "/images/universities/charles-university/40115076.webp": {
+    "height": 900,
+    "legacyId": "40115076.png",
+    "width": 1600
+  },
+  "/images/universities/comenius/40378643.webp": {
+    "height": 852,
+    "legacyId": "40378643.png",
+    "width": 1283
+  },
+  "/images/universities/cvut/40292342.webp": {
+    "height": 903,
+    "legacyId": "40292342.jpg",
+    "width": 1600
+  },
+  "/images/universities/debrecen/40292838.webp": {
+    "height": 911,
+    "legacyId": "40292838.png",
+    "width": 1600
+  },
+  "/images/universities/eka/40198753.webp": {
+    "height": 1065,
+    "legacyId": "40198753.png",
+    "width": 1600
+  },
+  "/images/universities/erzincan-binali-yildirim/40143788.webp": {
+    "height": 240,
+    "legacyId": "40143788.jpg",
+    "width": 640
+  },
+  "/images/universities/erzincan-binali-yildirim/40143790.webp": {
+    "height": 356,
+    "legacyId": "40143790.jpg",
+    "width": 476
+  },
+  "/images/universities/erzincan-binali-yildirim/40143797.webp": {
+    "height": 335,
+    "legacyId": "40143797.jpg",
+    "width": 596
+  },
+  "/images/universities/erzincan-binali-yildirim/40143802.webp": {
+    "height": 179,
+    "legacyId": "40143802.jpg",
+    "width": 607
+  },
+  "/images/universities/eskisehir-osmangazi/40145027.webp": {
+    "height": 337,
+    "legacyId": "40145027.jpg",
+    "width": 679
+  },
+  "/images/universities/eskisehir-osmangazi/40145043.webp": {
+    "height": 451,
+    "legacyId": "40145043.jpg",
+    "width": 676
+  },
+  "/images/universities/eskisehir-osmangazi/40145048.webp": {
+    "height": 444,
+    "legacyId": "40145048.jpg",
+    "width": 669
+  },
+  "/images/universities/eskisehir-osmangazi/40145071.webp": {
+    "height": 502,
+    "legacyId": "40145071.jpg",
+    "width": 670
+  },
+  "/images/universities/eskisehir-osmangazi/40145136.webp": {
+    "height": 447,
+    "legacyId": "40145136.jpg",
+    "width": 671
+  },
+  "/images/universities/euba/40380023.webp": {
+    "height": 1066,
+    "legacyId": "40380023.png",
+    "width": 1600
+  },
+  "/images/universities/fatih-sultan-mehmet-vakif/40127477.webp": {
+    "height": 466,
+    "legacyId": "40127477.png",
+    "width": 699
+  },
+  "/images/universities/fatih-sultan-mehmet-vakif/40127527.webp": {
+    "height": 391,
+    "legacyId": "40127527.jpg",
+    "width": 698
+  },
+  "/images/universities/fatih-sultan-mehmet-vakif/40127567.webp": {
+    "height": 393,
+    "legacyId": "40127567.png",
+    "width": 698
+  },
+  "/images/universities/freiburg/40302387.webp": {
+    "height": 948,
+    "legacyId": "40302387.png",
+    "width": 1598
+  },
+  "/images/universities/greenwich/40083248.webp": {
+    "height": 900,
+    "legacyId": "40083248.png",
+    "width": 1600
+  },
+  "/images/universities/hamburg/40304806.webp": {
+    "height": 999,
+    "legacyId": "40304806.png",
+    "width": 1600
+  },
+  "/images/universities/heidelberg/40303692.webp": {
+    "height": 828,
+    "legacyId": "40303692.png",
+    "width": 1459
+  },
+  "/images/universities/humboldt-berlin/40304467.webp": {
+    "height": 900,
+    "legacyId": "40304467.png",
+    "width": 1600
+  },
+  "/images/universities/istanbul-arel/40125156.webp": {
+    "height": 284,
+    "legacyId": "40125156.png",
+    "width": 692
+  },
+  "/images/universities/istanbul-arel/40125182.webp": {
+    "height": 462,
+    "legacyId": "40125182.png",
+    "width": 693
+  },
+  "/images/universities/istanbul-arel/40125208.webp": {
+    "height": 430,
+    "legacyId": "40125208.png",
+    "width": 692
+  },
+  "/images/universities/istanbul-arel/40125225.webp": {
+    "height": 459,
+    "legacyId": "40125225.png",
+    "width": 689
+  },
+  "/images/universities/istanbul-arel/40125245.webp": {
+    "height": 474,
+    "legacyId": "40125245.png",
+    "width": 711
+  },
+  "/images/universities/istanbul-arel/40125386.webp": {
+    "height": 456,
+    "legacyId": "40125386.png",
+    "width": 684
+  },
+  "/images/universities/istanbul-arel/40125412.webp": {
+    "height": 351,
+    "legacyId": "40125412.png",
+    "width": 694
+  },
+  "/images/universities/istanbul-kent/40124648.webp": {
+    "height": 347,
+    "legacyId": "40124648.png",
+    "width": 694
+  },
+  "/images/universities/istanbul-kent/40124653.webp": {
+    "height": 419,
+    "legacyId": "40124653.png",
+    "width": 665
+  },
+  "/images/universities/istanbul-kent/40124671.webp": {
+    "height": 348,
+    "legacyId": "40124671.png",
+    "width": 695
+  },
+  "/images/universities/istanbul-okan/40143905.webp": {
+    "height": 360,
+    "legacyId": "40143905.jpg",
+    "width": 640
+  },
+  "/images/universities/istanbul-okan/40143909.webp": {
+    "height": 424,
+    "legacyId": "40143909.jpg",
+    "width": 639
+  },
+  "/images/universities/istanbul-okan/40143910.webp": {
+    "height": 360,
+    "legacyId": "40143910.jpg",
+    "width": 640
+  },
+  "/images/universities/istanbul-okan/40143914.webp": {
+    "height": 376,
+    "legacyId": "40143914.jpg",
+    "width": 640
+  },
+  "/images/universities/istanbul-okan/40143916.webp": {
+    "height": 426,
+    "legacyId": "40143916.jpg",
+    "width": 640
+  },
+  "/images/universities/istanbul-okan/40143920.webp": {
+    "height": 330,
+    "legacyId": "40143920.jpg",
+    "width": 640
+  },
+  "/images/universities/istanbul-okan/40143922.webp": {
+    "height": 364,
+    "legacyId": "40143922.jpg",
+    "width": 640
+  },
+  "/images/universities/istanbul-okan/40143929.webp": {
+    "height": 360,
+    "legacyId": "40143929.jpg",
+    "width": 640
+  },
+  "/images/universities/izmir-demokrasi/40124833.webp": {
+    "height": 392,
+    "legacyId": "40124833.jpg",
+    "width": 697
+  },
+  "/images/universities/izmir-demokrasi/40124848.webp": {
+    "height": 619,
+    "legacyId": "40124848.jpg",
+    "width": 447
+  },
+  "/images/universities/izmir-demokrasi/40124893.webp": {
+    "height": 464,
+    "legacyId": "40124893.jpg",
+    "width": 697
+  },
+  "/images/universities/karabuk/40126553.webp": {
+    "height": 395,
+    "legacyId": "40126553.png",
+    "width": 720
+  },
+  "/images/universities/karabuk/40126586.webp": {
+    "height": 435,
+    "legacyId": "40126586.png",
+    "width": 734
+  },
+  "/images/universities/karabuk/40126637.webp": {
+    "height": 530,
+    "legacyId": "40126637.png",
+    "width": 738
+  },
+  "/images/universities/lodz/40373591.webp": {
+    "height": 600,
+    "legacyId": "40373591.png",
+    "width": 1200
+  },
+  "/images/universities/ludovika/40293481.webp": {
+    "height": 786,
+    "legacyId": "40293481.png",
+    "width": 1402
+  },
+  "/images/universities/matej-bel/40379302.webp": {
+    "height": 900,
+    "legacyId": "40379302.png",
+    "width": 1600
+  },
+  "/images/universities/nevsehir-haci-bektas-veli/40144022.webp": {
+    "height": 236,
+    "legacyId": "40144022.jpg",
+    "width": 682
+  },
+  "/images/universities/nevsehir-haci-bektas-veli/40144028.webp": {
+    "height": 367,
+    "legacyId": "40144028.jpg",
+    "width": 550
+  },
+  "/images/universities/nevsehir-haci-bektas-veli/40144041.webp": {
+    "height": 453,
+    "legacyId": "40144041.jpg",
+    "width": 680
+  },
+  "/images/universities/nigde-omer-halisdemir/40133217.webp": {
+    "height": 391,
+    "legacyId": "40133217.png",
+    "width": 695
+  },
+  "/images/universities/nigde-omer-halisdemir/40133380.webp": {
+    "height": 310,
+    "legacyId": "40133380.png",
+    "width": 699
+  },
+  "/images/universities/nigde-omer-halisdemir/40133415.webp": {
+    "height": 300,
+    "legacyId": "40133415.png",
+    "width": 699
+  },
+  "/images/universities/nigde-omer-halisdemir/40133422.webp": {
+    "height": 304,
+    "legacyId": "40133422.png",
+    "width": 697
+  },
+  "/images/universities/nigde-omer-halisdemir/40133435.webp": {
+    "height": 321,
+    "legacyId": "40133435.png",
+    "width": 705
+  },
+  "/images/universities/obuda/40295129.webp": {
+    "height": 608,
+    "legacyId": "40295129.png",
+    "width": 1146
+  },
+  "/images/universities/padova/40368140.webp": {
+    "height": 973,
+    "legacyId": "40368140.png",
+    "width": 1508
+  },
+  "/images/universities/politecnico-milano/40367522.webp": {
+    "height": 634,
+    "legacyId": "40367522.png",
+    "width": 1200
+  },
+  "/images/universities/rsu/40310181.webp": {
+    "height": 1067,
+    "legacyId": "40310181.png",
+    "width": 1600
+  },
+  "/images/universities/rtu/40076152.webp": {
+    "height": 844,
+    "legacyId": "40076152.png",
+    "width": 1600
+  },
+  "/images/universities/sapienza/40205006.webp": {
+    "height": 902,
+    "legacyId": "40205006.png",
+    "width": 1600
+  },
+  "/images/universities/stu/40381972.webp": {
+    "height": 600,
+    "legacyId": "40381972.png",
+    "width": 800
+  },
+  "/images/universities/tsi/40312249.webp": {
+    "height": 845,
+    "legacyId": "40312249.png",
+    "width": 1600
+  },
+  "/images/universities/turin/40198219.webp": {
+    "height": 995,
+    "legacyId": "40198219.png",
+    "width": 1600
+  },
+  "/images/universities/vistula/40369064.webp": {
+    "height": 800,
+    "legacyId": "40369064.png",
+    "width": 1600
+  },
+  "/images/universities/vse-prague/40114167.webp": {
+    "height": 798,
+    "legacyId": "40114167.png",
+    "width": 1200
+  },
+  "/images/universities/west-london/40191023.webp": {
+    "height": 568,
+    "legacyId": "40191023.png",
+    "width": 852
+  },
+  "/images/universities/wincenty-pol/40370436.webp": {
+    "height": 900,
+    "legacyId": "40370436.png",
+    "width": 1600
+  },
+  "/images/universities/wsb-merito/40371185.webp": {
+    "height": 837,
+    "legacyId": "40371185.png",
+    "width": 1524
+  },
+  "/images/universities/yalova/40126199.webp": {
+    "height": 311,
+    "legacyId": "40126199.jpg",
+    "width": 719
+  },
+  "/images/universities/yalova/40126213.webp": {
+    "height": 515,
+    "legacyId": "40126213.jpg",
+    "width": 738
+  },
+  "/images/universities/yalova/40126231.webp": {
+    "height": 487,
+    "legacyId": "40126231.jpg",
+    "width": 744
+  },
+  "/images/universities/yalova/40126258.webp": {
+    "height": 420,
+    "legacyId": "40126258.jpg",
+    "width": 640
+  },
+  "/images/universities/yalova/40126271.webp": {
+    "height": 298,
+    "legacyId": "40126271.jpg",
+    "width": 504
+  },
+  "/images/universities/yozgat-bozok/40144126.webp": {
+    "height": 416,
+    "legacyId": "40144126.jpg",
+    "width": 624
+  },
+  "/images/universities/yozgat-bozok/40144128.webp": {
+    "height": 467,
+    "legacyId": "40144128.jpg",
+    "width": 623
+  },
+  "/images/universities/yozgat-bozok/40144154.webp": {
+    "height": 414,
+    "legacyId": "40144154.jpg",
+    "width": 622
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "stu",
+  "country": "slovakia",
+  "city": "Bratislava",
+  "nativeName": "Slovenská technická univerzita v Bratislave",
+  "order": 4,
+  "name": {
+    "ru": "Словацкий технический университет в Братиславе",
+    "en": "Slovak Technical University in Bratislava"
+  },
+  "cover": "/images/universities/stu/40381972.webp",
+  "legacy": {
+    "ru": "/ru/2024_57/sk/bratislava/stub/",
+    "en": "/en/2024_57/sk/bratislava/stub/"
+  }
+}

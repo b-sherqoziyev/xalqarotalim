@@ -1,0 +1,16 @@
+{
+  "id": "wsb-merito",
+  "country": "poland",
+  "city": "Dąbrowa Górnicza",
+  "nativeName": "Uniwersytet WSB Merito",
+  "order": 3,
+  "name": {
+    "ru": "Университеты Высшей Школы Банка (WSB) Мерито",
+    "en": "Universities of the Higher School of Bank (WSB) Merito"
+  },
+  "cover": "/images/universities/wsb-merito/40371185.webp",
+  "legacy": {
+    "ru": "/ru/2024_52/pl/dombrova-gurnicha/uwsbm/",
+    "en": "/en/2024_52/pl/dombrova-gurnicha/uwsbm/"
+  }
+}

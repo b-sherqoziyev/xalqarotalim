@@ -1,0 +1,16 @@
+{
+  "id": "beykoz",
+  "country": "turkey",
+  "city": "İstanbul",
+  "nativeName": "İstanbul Beykoz Üniversitesi",
+  "order": 4,
+  "name": {
+    "uz": "Istanbul Beykoz Universiteti",
+    "uz-cyrl": "Истанбул Бейкоз Университети"
+  },
+  "cover": "/images/universities/beykoz/40175377.webp",
+  "legacy": {
+    "uz": "/uzl/2024_28/istanbul/beykoz/",
+    "uz-cyrl": "/uzk/2024_28/istanbul/beykoz/"
+  }
+}

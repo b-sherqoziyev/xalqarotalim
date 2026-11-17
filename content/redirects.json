@@ -1,0 +1,650 @@
+[
+  {
+    "source": "/",
+    "destination": "/ru"
+  },
+  {
+    "source": "/01/",
+    "destination": "/ru"
+  },
+  {
+    "source": "/02/",
+    "destination": "/ru"
+  },
+  {
+    "source": "/03/",
+    "destination": "/ru"
+  },
+  {
+    "source": "/04/",
+    "destination": "/ru"
+  },
+  {
+    "source": "/06/",
+    "destination": "/ru/scholarships/turkiye-burslari"
+  },
+  {
+    "source": "/11/",
+    "destination": "/ru"
+  },
+  {
+    "source": "/12/",
+    "destination": "/ru"
+  },
+  {
+    "source": "/contacts_en/",
+    "destination": "/en/contacts"
+  },
+  {
+    "source": "/contacts_ru/",
+    "destination": "/ru/contacts"
+  },
+  {
+    "source": "/contacts_tr/",
+    "destination": "/tr/contacts"
+  },
+  {
+    "source": "/contacts_uzk/",
+    "destination": "/uz-cyrl/contacts"
+  },
+  {
+    "source": "/contacts_uzl/",
+    "destination": "/uz/contacts"
+  },
+  {
+    "source": "/en/",
+    "destination": "/en"
+  },
+  {
+    "source": "/en/2024_10_izmir_demokrasi_izmir/",
+    "destination": "/en/universities/izmir-demokrasi"
+  },
+  {
+    "source": "/en/2024_11_arel_istanbul/",
+    "destination": "/en/universities/istanbul-arel"
+  },
+  {
+    "source": "/en/2024_12_yalova_yalova/",
+    "destination": "/en/universities/yalova"
+  },
+  {
+    "source": "/en/2024_13_karabuk_karabuk/",
+    "destination": "/en/universities/karabuk"
+  },
+  {
+    "source": "/en/2024_1_tb/",
+    "destination": "/en/scholarships/turkiye-burslari"
+  },
+  {
+    "source": "/en/2024_34/gb/london/uwl/",
+    "destination": "/en/universities/west-london"
+  },
+  {
+    "source": "/en/2024_35/it/turin/ut/",
+    "destination": "/en/universities/turin"
+  },
+  {
+    "source": "/en/2024_36/lv/riga/eka/",
+    "destination": "/en/universities/eka"
+  },
+  {
+    "source": "/en/2024_37/it/rome/sur/",
+    "destination": "/en/universities/sapienza"
+  },
+  {
+    "source": "/en/2024_38_cz/praga/cvut/",
+    "destination": "/en/universities/cvut"
+  },
+  {
+    "source": "/en/2024_39_hu/debrecen/ud/",
+    "destination": "/en/universities/debrecen"
+  },
+  {
+    "source": "/en/2024_3_lv/riga/rtu/",
+    "destination": "/en/universities/rtu"
+  },
+  {
+    "source": "/en/2024_40_hu/budapest/nkel/",
+    "destination": "/en/universities/ludovika"
+  },
+  {
+    "source": "/en/2024_41_hu/budapest/oe/",
+    "destination": "/en/universities/obuda"
+  },
+  {
+    "source": "/en/2024_42_ge/freiburg/aluf/",
+    "destination": "/en/universities/freiburg"
+  },
+  {
+    "source": "/en/2024_43_ge/heidelberg/rkuh/",
+    "destination": "/en/universities/heidelberg"
+  },
+  {
+    "source": "/en/2024_44_ge/berlin/huzb/",
+    "destination": "/en/universities/humboldt-berlin"
+  },
+  {
+    "source": "/en/2024_45_ge/hamburg/uh/",
+    "destination": "/en/universities/hamburg"
+  },
+  {
+    "source": "/en/2024_46/lv/riga/rsu/",
+    "destination": "/en/universities/rsu"
+  },
+  {
+    "source": "/en/2024_47/lv/riga/tsi/",
+    "destination": "/en/universities/tsi"
+  },
+  {
+    "source": "/en/2024_48/it/milan/pm/",
+    "destination": "/en/universities/politecnico-milano"
+  },
+  {
+    "source": "/en/2024_49/it/padua/udsdp/",
+    "destination": "/en/universities/padova"
+  },
+  {
+    "source": "/en/2024_4_gb/london/greenwich/",
+    "destination": "/en/universities/greenwich"
+  },
+  {
+    "source": "/en/2024_50/pl/lublin/answpl_copy/",
+    "destination": "/en/universities/vistula"
+  },
+  {
+    "source": "/en/2024_51/pl/lublin/answpl/",
+    "destination": "/en/universities/wincenty-pol"
+  },
+  {
+    "source": "/en/2024_52/pl/dombrova-gurnicha/uwsbm/",
+    "destination": "/en/universities/wsb-merito"
+  },
+  {
+    "source": "/en/2024_53/pl/lodz/ul/",
+    "destination": "/en/universities/lodz"
+  },
+  {
+    "source": "/en/2024_54/sk/bratislava/ukb/",
+    "destination": "/en/universities/comenius"
+  },
+  {
+    "source": "/en/2024_55/sk/banska-bistrica/umbbb/",
+    "destination": "/en/universities/matej-bel"
+  },
+  {
+    "source": "/en/2024_56/sk/bratislava/eub/",
+    "destination": "/en/universities/euba"
+  },
+  {
+    "source": "/en/2024_57/sk/bratislava/stub/",
+    "destination": "/en/universities/stu"
+  },
+  {
+    "source": "/en/2024_5_hu/budapest/bute/",
+    "destination": "/en/universities/bme"
+  },
+  {
+    "source": "/en/2024_6_cz/praga/uk/",
+    "destination": "/en/universities/charles-university"
+  },
+  {
+    "source": "/en/2024_7_cz/praga/vsep/",
+    "destination": "/en/universities/vse-prague"
+  },
+  {
+    "source": "/en/2024_8_altinbash_istanbul/",
+    "destination": "/en/universities/altinbas"
+  },
+  {
+    "source": "/en/2024_9_kent_istanbul/",
+    "destination": "/en/universities/istanbul-kent"
+  },
+  {
+    "source": "/en/announcements/",
+    "destination": "/en/news/turkey-scholarships-announcement"
+  },
+  {
+    "source": "/page_96364/",
+    "destination": "/ru"
+  },
+  {
+    "source": "/ru/2024_10_izmir_demokrasi_izmir/",
+    "destination": "/ru/universities/izmir-demokrasi"
+  },
+  {
+    "source": "/ru/2024_11_arel_istanbul/",
+    "destination": "/ru/universities/istanbul-arel"
+  },
+  {
+    "source": "/ru/2024_12_yalova_yalova/",
+    "destination": "/ru/universities/yalova"
+  },
+  {
+    "source": "/ru/2024_13_karabuk_karabuk/",
+    "destination": "/ru/universities/karabuk"
+  },
+  {
+    "source": "/ru/2024_1_tb/",
+    "destination": "/ru/scholarships/turkiye-burslari"
+  },
+  {
+    "source": "/ru/2024_20/tr/n/",
+    "destination": "/ru/news/turkey-state-grants-2024-2025"
+  },
+  {
+    "source": "/ru/2024_27/tr/n/",
+    "destination": "/ru/news/for-those-who-want-to-study-abroad"
+  },
+  {
+    "source": "/ru/2024_29/tr/n/",
+    "destination": "/ru/news/masters-and-phd-in-turkey"
+  },
+  {
+    "source": "/ru/2024_30/tr/n/",
+    "destination": "/ru/news/higher-education-in-turkey"
+  },
+  {
+    "source": "/ru/2024_31/tr/n/",
+    "destination": "/ru/news/study-in-turkey-2024-2025"
+  },
+  {
+    "source": "/ru/2024_32/tr/n/",
+    "destination": "/ru/news/consulting-benefits"
+  },
+  {
+    "source": "/ru/2024_33/tr/n/",
+    "destination": "/ru/news/turkey-grants-2024-2025-continue"
+  },
+  {
+    "source": "/ru/2024_34/gb/london/uwl/",
+    "destination": "/ru/universities/west-london"
+  },
+  {
+    "source": "/ru/2024_35/it/turin/ut/",
+    "destination": "/ru/universities/turin"
+  },
+  {
+    "source": "/ru/2024_36/lv/riga/eka/",
+    "destination": "/ru/universities/eka"
+  },
+  {
+    "source": "/ru/2024_37/it/rome/sur/",
+    "destination": "/ru/universities/sapienza"
+  },
+  {
+    "source": "/ru/2024_38_cz/praga/cvut/",
+    "destination": "/ru/universities/cvut"
+  },
+  {
+    "source": "/ru/2024_39_hu/debrecen/ud/",
+    "destination": "/ru/universities/debrecen"
+  },
+  {
+    "source": "/ru/2024_3_lv/riga/rtu/",
+    "destination": "/ru/universities/rtu"
+  },
+  {
+    "source": "/ru/2024_40_hu/budapest/nkel/",
+    "destination": "/ru/universities/ludovika"
+  },
+  {
+    "source": "/ru/2024_41_hu/budapest/oe/",
+    "destination": "/ru/universities/obuda"
+  },
+  {
+    "source": "/ru/2024_42_ge/freiburg/aluf/",
+    "destination": "/ru/universities/freiburg"
+  },
+  {
+    "source": "/ru/2024_43_ge/heidelberg/rkuh/",
+    "destination": "/ru/universities/heidelberg"
+  },
+  {
+    "source": "/ru/2024_44_ge/berlin/huzb/",
+    "destination": "/ru/universities/humboldt-berlin"
+  },
+  {
+    "source": "/ru/2024_45_ge/hamburg/uh/",
+    "destination": "/ru/universities/hamburg"
+  },
+  {
+    "source": "/ru/2024_46/lv/riga/rsu/",
+    "destination": "/ru/universities/rsu"
+  },
+  {
+    "source": "/ru/2024_47/lv/riga/tsi/",
+    "destination": "/ru/universities/tsi"
+  },
+  {
+    "source": "/ru/2024_48/it/milan/pm/",
+    "destination": "/ru/universities/politecnico-milano"
+  },
+  {
+    "source": "/ru/2024_49/it/padua/udsdp/",
+    "destination": "/ru/universities/padova"
+  },
+  {
+    "source": "/ru/2024_4_gb/london/greenwich/",
+    "destination": "/ru/universities/greenwich"
+  },
+  {
+    "source": "/ru/2024_50/pl/warsaw/afbv/",
+    "destination": "/ru/universities/vistula"
+  },
+  {
+    "source": "/ru/2024_51/pl/lublin/answpl/",
+    "destination": "/ru/universities/wincenty-pol"
+  },
+  {
+    "source": "/ru/2024_52/pl/dombrova-gurnicha/uwsbm/",
+    "destination": "/ru/universities/wsb-merito"
+  },
+  {
+    "source": "/ru/2024_53/pl/lodz/ul/",
+    "destination": "/ru/universities/lodz"
+  },
+  {
+    "source": "/ru/2024_54/sk/bratislava/ukb/",
+    "destination": "/ru/universities/comenius"
+  },
+  {
+    "source": "/ru/2024_55/sk/banska-bistrica/umbbb/",
+    "destination": "/ru/universities/matej-bel"
+  },
+  {
+    "source": "/ru/2024_56/sk/bratislava/eub/",
+    "destination": "/ru/universities/euba"
+  },
+  {
+    "source": "/ru/2024_57/sk/bratislava/stub/",
+    "destination": "/ru/universities/stu"
+  },
+  {
+    "source": "/ru/2024_5_hu/budapest/bute/",
+    "destination": "/ru/universities/bme"
+  },
+  {
+    "source": "/ru/2024_6_cz/praga/uk/",
+    "destination": "/ru/universities/charles-university"
+  },
+  {
+    "source": "/ru/2024_7_cz/praga/vsep/",
+    "destination": "/ru/universities/vse-prague"
+  },
+  {
+    "source": "/ru/2024_8_altinbash_istanbul/",
+    "destination": "/ru/universities/altinbas"
+  },
+  {
+    "source": "/ru/2024_9_kent_istanbul/",
+    "destination": "/ru/universities/istanbul-kent"
+  },
+  {
+    "source": "/ru/announcements/",
+    "destination": "/ru/news/turkey-scholarships-announcement"
+  },
+  {
+    "source": "/tr/",
+    "destination": "/tr"
+  },
+  {
+    "source": "/tr/2024_1_tb/",
+    "destination": "/tr/scholarships/turkiye-burslari"
+  },
+  {
+    "source": "/translations/en/",
+    "destination": "/en/translations"
+  },
+  {
+    "source": "/translations/ru/",
+    "destination": "/ru/translations"
+  },
+  {
+    "source": "/translations/tr/",
+    "destination": "/tr/translations"
+  },
+  {
+    "source": "/translations/uzk/",
+    "destination": "/uz-cyrl/translations"
+  },
+  {
+    "source": "/translations/uzl/",
+    "destination": "/uz/translations"
+  },
+  {
+    "source": "/uzk/",
+    "destination": "/uz-cyrl"
+  },
+  {
+    "source": "/uzk/2024_10_izmir_demokrasi_izmir/",
+    "destination": "/uz-cyrl/universities/izmir-demokrasi"
+  },
+  {
+    "source": "/uzk/2024_11_arel_istanbul/",
+    "destination": "/uz-cyrl/universities/istanbul-arel"
+  },
+  {
+    "source": "/uzk/2024_12_yalova_yalova/",
+    "destination": "/uz-cyrl/universities/yalova"
+  },
+  {
+    "source": "/uzk/2024_13_karabuk_karabuk/",
+    "destination": "/uz-cyrl/universities/karabuk"
+  },
+  {
+    "source": "/uzk/2024_14_istanbul_fsmvu/",
+    "destination": "/uz-cyrl/universities/fatih-sultan-mehmet-vakif"
+  },
+  {
+    "source": "/uzk/2024_15_istanbul_nohu/",
+    "destination": "/uz-cyrl/universities/nigde-omer-halisdemir"
+  },
+  {
+    "source": "/uzk/2024_16_balikesir_boeu/",
+    "destination": "/uz-cyrl/universities/bandirma-onyedi-eylul"
+  },
+  {
+    "source": "/uzk/2024_17_bolu_baibu/",
+    "destination": "/uz-cyrl/universities/bolu-abant-izzet-baysal"
+  },
+  {
+    "source": "/uzk/2024_18_db/",
+    "destination": "/uz-cyrl/scholarships/turkey-religious-grants"
+  },
+  {
+    "source": "/uzk/2024_19_bd/",
+    "destination": "/uz-cyrl/scholarships/grant-application"
+  },
+  {
+    "source": "/uzk/2024_1_tb/",
+    "destination": "/uz-cyrl/scholarships/turkiye-burslari"
+  },
+  {
+    "source": "/uzk/2024_20/tr/n/",
+    "destination": "/uz-cyrl/news/turkey-state-grants-2024-2025"
+  },
+  {
+    "source": "/uzk/2024_21_anadolu_ebyu/",
+    "destination": "/uz-cyrl/universities/erzincan-binali-yildirim"
+  },
+  {
+    "source": "/uzk/2024_22_istanbul_iou/",
+    "destination": "/uz-cyrl/universities/istanbul-okan"
+  },
+  {
+    "source": "/uzk/2024_23_nevshehir_nhbvu/",
+    "destination": "/uz-cyrl/universities/nevsehir-haci-bektas-veli"
+  },
+  {
+    "source": "/uzk/2024_24_yozgat_ybu/",
+    "destination": "/uz-cyrl/universities/yozgat-bozok"
+  },
+  {
+    "source": "/uzk/2024_25_eskishehir_eou/",
+    "destination": "/uz-cyrl/universities/eskisehir-osmangazi"
+  },
+  {
+    "source": "/uzk/2024_26_anadolu_au/",
+    "destination": "/uz-cyrl/universities/anadolu"
+  },
+  {
+    "source": "/uzk/2024_27/tr/n/",
+    "destination": "/uz-cyrl/news/for-those-who-want-to-study-abroad"
+  },
+  {
+    "source": "/uzk/2024_28/istanbul/beykoz/",
+    "destination": "/uz-cyrl/universities/beykoz"
+  },
+  {
+    "source": "/uzk/2024_29/tr/n/",
+    "destination": "/uz-cyrl/news/masters-and-phd-in-turkey"
+  },
+  {
+    "source": "/uzk/2024_30/tr/n/",
+    "destination": "/uz-cyrl/news/higher-education-in-turkey"
+  },
+  {
+    "source": "/uzk/2024_31/tr/n/",
+    "destination": "/uz-cyrl/news/study-in-turkey-2024-2025"
+  },
+  {
+    "source": "/uzk/2024_32/tr/n/",
+    "destination": "/uz-cyrl/news/consulting-benefits"
+  },
+  {
+    "source": "/uzk/2024_33/tr/n/",
+    "destination": "/uz-cyrl/news/turkey-grants-2024-2025-continue"
+  },
+  {
+    "source": "/uzk/2024_4_gb/london/greenwich/",
+    "destination": "/uz-cyrl/universities/greenwich"
+  },
+  {
+    "source": "/uzk/2024_8_altinbash_istanbul/",
+    "destination": "/uz-cyrl/universities/altinbas"
+  },
+  {
+    "source": "/uzk/2024_9_kent_istanbul/",
+    "destination": "/uz-cyrl/universities/istanbul-kent"
+  },
+  {
+    "source": "/uzl/",
+    "destination": "/uz"
+  },
+  {
+    "source": "/uzl/2024_10_izmir_demokrasi_izmir/",
+    "destination": "/uz/universities/izmir-demokrasi"
+  },
+  {
+    "source": "/uzl/2024_11_arel_istanbul/",
+    "destination": "/uz/universities/istanbul-arel"
+  },
+  {
+    "source": "/uzl/2024_12_yalova_yalova/",
+    "destination": "/uz/universities/yalova"
+  },
+  {
+    "source": "/uzl/2024_13_karabuk_karabuk/",
+    "destination": "/uz/universities/karabuk"
+  },
+  {
+    "source": "/uzl/2024_14_istanbul_fsmvu/",
+    "destination": "/uz/universities/fatih-sultan-mehmet-vakif"
+  },
+  {
+    "source": "/uzl/2024_15_istanbul_nohu/",
+    "destination": "/uz/universities/nigde-omer-halisdemir"
+  },
+  {
+    "source": "/uzl/2024_16_balikesir_boeu/",
+    "destination": "/uz/universities/bandirma-onyedi-eylul"
+  },
+  {
+    "source": "/uzl/2024_17_bolu_baibu/",
+    "destination": "/uz/universities/bolu-abant-izzet-baysal"
+  },
+  {
+    "source": "/uzl/2024_18_db/",
+    "destination": "/uz/scholarships/turkey-religious-grants"
+  },
+  {
+    "source": "/uzl/2024_19_bd/",
+    "destination": "/uz/scholarships/grant-application"
+  },
+  {
+    "source": "/uzl/2024_1_tb/",
+    "destination": "/uz/scholarships/turkiye-burslari"
+  },
+  {
+    "source": "/uzl/2024_20/tr/n/",
+    "destination": "/uz/news/turkey-state-grants-2024-2025"
+  },
+  {
+    "source": "/uzl/2024_21_anadolu_ebyu/",
+    "destination": "/uz/universities/erzincan-binali-yildirim"
+  },
+  {
+    "source": "/uzl/2024_22_istanbul_iou/",
+    "destination": "/uz/universities/istanbul-okan"
+  },
+  {
+    "source": "/uzl/2024_23_nevshehir_nhbvu/",
+    "destination": "/uz/universities/nevsehir-haci-bektas-veli"
+  },
+  {
+    "source": "/uzl/2024_24_yozgat_ybu/",
+    "destination": "/uz/universities/yozgat-bozok"
+  },
+  {
+    "source": "/uzl/2024_25_eskishehir_eou/",
+    "destination": "/uz/universities/eskisehir-osmangazi"
+  },
+  {
+    "source": "/uzl/2024_26_anadolu_au/",
+    "destination": "/uz/universities/anadolu"
+  },
+  {
+    "source": "/uzl/2024_27/tr/n/",
+    "destination": "/uz/news/for-those-who-want-to-study-abroad"
+  },
+  {
+    "source": "/uzl/2024_28/istanbul/beykoz/",
+    "destination": "/uz/universities/beykoz"
+  },
+  {
+    "source": "/uzl/2024_29/tr/n/",
+    "destination": "/uz/news/masters-and-phd-in-turkey"
+  },
+  {
+    "source": "/uzl/2024_2_beykent_istanbul/",
+    "destination": "/uz/universities/beykent"
+  },
+  {
+    "source": "/uzl/2024_30/tr/n/",
+    "destination": "/uz/news/higher-education-in-turkey"
+  },
+  {
+    "source": "/uzl/2024_31/tr/n/",
+    "destination": "/uz/news/study-in-turkey-2024-2025"
+  },
+  {
+    "source": "/uzl/2024_32/tr/n/",
+    "destination": "/uz/news/consulting-benefits"
+  },
+  {
+    "source": "/uzl/2024_33/tr/n/",
+    "destination": "/uz/news/turkey-grants-2024-2025-continue"
+  },
+  {
+    "source": "/uzl/2024_4_gb/london/greenwich/",
+    "destination": "/uz/universities/greenwich"
+  },
+  {
+    "source": "/uzl/2024_8_altinbash_istanbul/",
+    "destination": "/uz/universities/altinbas"
+  },
+  {
+    "source": "/uzl/2024_9_kent_istanbul/",
+    "destination": "/uz/universities/istanbul-kent"
+  }
+]

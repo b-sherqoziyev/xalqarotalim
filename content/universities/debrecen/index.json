@@ -1,0 +1,16 @@
+{
+  "id": "debrecen",
+  "country": "hungary",
+  "city": "Debrecen",
+  "nativeName": "Debreceni Egyetem",
+  "order": 2,
+  "name": {
+    "ru": "Университет Дебрецена",
+    "en": "University of Debrecen"
+  },
+  "cover": "/images/universities/debrecen/40292838.webp",
+  "legacy": {
+    "ru": "/ru/2024_39_hu/debrecen/ud/",
+    "en": "/en/2024_39_hu/debrecen/ud/"
+  }
+}

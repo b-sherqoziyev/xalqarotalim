@@ -1,0 +1,16 @@
+{
+  "id": "charles-university",
+  "country": "czechia",
+  "city": "Praha",
+  "nativeName": "Univerzita Karlova",
+  "order": 2,
+  "name": {
+    "ru": "Карлов университет",
+    "en": "Charles University"
+  },
+  "cover": "/images/universities/charles-university/40115076.webp",
+  "legacy": {
+    "ru": "/ru/2024_6_cz/praga/uk/",
+    "en": "/en/2024_6_cz/praga/uk/"
+  }
+}

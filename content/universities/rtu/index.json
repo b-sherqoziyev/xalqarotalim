@@ -1,0 +1,16 @@
+{
+  "id": "rtu",
+  "country": "latvia",
+  "city": "Rīga",
+  "nativeName": "Rīgas Tehniskā universitāte",
+  "order": 1,
+  "name": {
+    "ru": "Рижский Технический Университет (РТУ)",
+    "en": "Riga Technical University (RTU)"
+  },
+  "cover": "/images/universities/rtu/40076152.webp",
+  "legacy": {
+    "ru": "/ru/2024_3_lv/riga/rtu/",
+    "en": "/en/2024_3_lv/riga/rtu/"
+  }
+}

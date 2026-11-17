@@ -1,0 +1,18 @@
+{
+  "id": "izmir-demokrasi",
+  "country": "turkey",
+  "city": "İzmir",
+  "nativeName": "İzmir Demokrasi Üniversitesi",
+  "order": 9,
+  "name": {
+    "uz": "Izmir Demokratiya Universiteti",
+    "uz-cyrl": "Измир Демократия Университети",
+    "ru": "Измирский университет демократии"
+  },
+  "cover": "/images/universities/izmir-demokrasi/40124833.webp",
+  "legacy": {
+    "uz": "/uzl/2024_10_izmir_demokrasi_izmir/",
+    "uz-cyrl": "/uzk/2024_10_izmir_demokrasi_izmir/",
+    "ru": "/ru/2024_10_izmir_demokrasi_izmir/"
+  }
+}

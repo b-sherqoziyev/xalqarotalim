@@ -1,0 +1,12 @@
+{
+  "id": "poland",
+  "order": 7,
+  "name": {
+    "uz": "Polsha",
+    "uz-cyrl": "Польша",
+    "ru": "Польша",
+    "en": "Poland",
+    "tr": "Polonya"
+  },
+  "cover": "/images/countries/poland.webp"
+}

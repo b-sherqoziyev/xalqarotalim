@@ -1,0 +1,16 @@
+{
+  "id": "freiburg",
+  "country": "germany",
+  "city": "Freiburg",
+  "nativeName": "Albert-Ludwigs-Universität Freiburg",
+  "order": 1,
+  "name": {
+    "ru": "Фрайбургский университет",
+    "en": "University of Freiburg"
+  },
+  "cover": "/images/universities/freiburg/40302387.webp",
+  "legacy": {
+    "ru": "/ru/2024_42_ge/freiburg/aluf/",
+    "en": "/en/2024_42_ge/freiburg/aluf/"
+  }
+}

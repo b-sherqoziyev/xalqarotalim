@@ -1,0 +1,16 @@
+{
+  "id": "comenius",
+  "country": "slovakia",
+  "city": "Bratislava",
+  "nativeName": "Univerzita Komenského v Bratislave",
+  "order": 1,
+  "name": {
+    "ru": "Университет Коменского в Братиславе",
+    "en": "Comenius University in Bratislava"
+  },
+  "cover": "/images/universities/comenius/40378643.webp",
+  "legacy": {
+    "ru": "/ru/2024_54/sk/bratislava/ukb/",
+    "en": "/en/2024_54/sk/bratislava/ukb/"
+  }
+}

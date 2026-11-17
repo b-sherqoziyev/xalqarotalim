@@ -1,0 +1,12 @@
+{
+  "id": "uk",
+  "order": 2,
+  "name": {
+    "uz": "Buyuk Britaniya",
+    "uz-cyrl": "Буюк Британия",
+    "ru": "Великобритания",
+    "en": "United Kingdom",
+    "tr": "Birleşik Krallık"
+  },
+  "cover": "/images/countries/uk.webp"
+}

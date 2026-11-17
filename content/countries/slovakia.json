@@ -1,0 +1,12 @@
+{
+  "id": "slovakia",
+  "order": 9,
+  "name": {
+    "uz": "Slovakiya",
+    "uz-cyrl": "Словакия",
+    "ru": "Словакия",
+    "en": "Slovakia",
+    "tr": "Slovakya"
+  },
+  "cover": "/images/countries/slovakia.webp"
+}

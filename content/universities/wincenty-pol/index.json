@@ -1,0 +1,16 @@
+{
+  "id": "wincenty-pol",
+  "country": "poland",
+  "city": "Lublin",
+  "nativeName": "Akademia Nauk Stosowanych Wincentego Pola w Lublinie",
+  "order": 2,
+  "name": {
+    "ru": "Академия прикладных наук Винсенти Поля в Люблине",
+    "en": "Academy of Applied Sciences Vincenty Pola in Lublin"
+  },
+  "cover": "/images/universities/wincenty-pol/40370436.webp",
+  "legacy": {
+    "ru": "/ru/2024_51/pl/lublin/answpl/",
+    "en": "/en/2024_51/pl/lublin/answpl/"
+  }
+}

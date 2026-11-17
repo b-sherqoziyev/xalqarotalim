@@ -1,0 +1,16 @@
+{
+  "id": "eka",
+  "country": "latvia",
+  "city": "Rīga",
+  "nativeName": "EKA Universitāte",
+  "order": 2,
+  "name": {
+    "ru": "Университет экономики и культуры",
+    "en": "University of Economics and Culture"
+  },
+  "cover": "/images/universities/eka/40198753.webp",
+  "legacy": {
+    "ru": "/ru/2024_36/lv/riga/eka/",
+    "en": "/en/2024_36/lv/riga/eka/"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "greenwich",
+  "country": "uk",
+  "city": "London",
+  "nativeName": "University of Greenwich",
+  "order": 1,
+  "name": {
+    "uz": "Grinvich Universiteti",
+    "uz-cyrl": "Гринвич Университети",
+    "ru": "Университет Гринвича",
+    "en": "University of Greenwich"
+  },
+  "cover": "/images/universities/greenwich/40083248.webp",
+  "legacy": {
+    "uz": "/uzl/2024_4_gb/london/greenwich/",
+    "uz-cyrl": "/uzk/2024_4_gb/london/greenwich/",
+    "ru": "/ru/2024_4_gb/london/greenwich/",
+    "en": "/en/2024_4_gb/london/greenwich/"
+  }
+}

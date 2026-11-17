@@ -1,0 +1,16 @@
+{
+  "id": "obuda",
+  "country": "hungary",
+  "city": "Budapest",
+  "nativeName": "Óbudai Egyetem",
+  "order": 4,
+  "name": {
+    "ru": "Университет Обуда",
+    "en": "Obuda University"
+  },
+  "cover": "/images/universities/obuda/40295129.webp",
+  "legacy": {
+    "ru": "/ru/2024_41_hu/budapest/oe/",
+    "en": "/en/2024_41_hu/budapest/oe/"
+  }
+}

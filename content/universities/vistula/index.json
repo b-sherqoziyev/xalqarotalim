@@ -1,0 +1,16 @@
+{
+  "id": "vistula",
+  "country": "poland",
+  "city": "Warszawa",
+  "nativeName": "Akademia Finansów i Biznesu Vistula",
+  "order": 1,
+  "name": {
+    "ru": "Вислинская академия финансов и бизнеса",
+    "en": "Vistula Academy of Finance and Business"
+  },
+  "cover": "/images/universities/vistula/40369064.webp",
+  "legacy": {
+    "ru": "/ru/2024_50/pl/warsaw/afbv/",
+    "en": "/en/2024_50/pl/lublin/answpl_copy/"
+  }
+}

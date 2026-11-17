@@ -1,0 +1,14 @@
+{
+  "id": "grant-application",
+  "country": "turkey",
+  "order": 3,
+  "name": {
+    "uz": "Grant dasturlariga hujjat topshirish",
+    "uz-cyrl": "Грант Дастурларига Ҳужжат Топшириш"
+  },
+  "cover": "/images/scholarships/grant-application/40136744.webp",
+  "legacy": {
+    "uz": "/uzl/2024_19_bd/",
+    "uz-cyrl": "/uzk/2024_19_bd/"
+  }
+}

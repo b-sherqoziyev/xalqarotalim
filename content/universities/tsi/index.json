@@ -1,0 +1,16 @@
+{
+  "id": "tsi",
+  "country": "latvia",
+  "city": "Rīga",
+  "nativeName": "Transporta un sakaru institūts",
+  "order": 4,
+  "name": {
+    "ru": "Институт транспорта и связи",
+    "en": "Institute of Transport and Communications"
+  },
+  "cover": "/images/universities/tsi/40312249.webp",
+  "legacy": {
+    "ru": "/ru/2024_47/lv/riga/tsi/",
+    "en": "/en/2024_47/lv/riga/tsi/"
+  }
+}

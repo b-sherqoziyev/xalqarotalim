@@ -1,0 +1,16 @@
+{
+  "id": "vse-prague",
+  "country": "czechia",
+  "city": "Praha",
+  "nativeName": "Vysoká škola ekonomická v Praze",
+  "order": 1,
+  "name": {
+    "ru": "Пражский экономический университет",
+    "en": "Prague University of Economics"
+  },
+  "cover": "/images/universities/vse-prague/40114167.webp",
+  "legacy": {
+    "ru": "/ru/2024_7_cz/praga/vsep/",
+    "en": "/en/2024_7_cz/praga/vsep/"
+  }
+}

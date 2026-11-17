@@ -1,0 +1,14 @@
+{
+  "id": "beykent",
+  "country": "turkey",
+  "city": "İstanbul",
+  "nativeName": "İstanbul Beykent Üniversitesi",
+  "order": 3,
+  "name": {
+    "uz": "Istanbul Beykent Universiteti"
+  },
+  "cover": "/images/universities/beykent/40041913.webp",
+  "legacy": {
+    "uz": "/uzl/2024_2_beykent_istanbul/"
+  }
+}

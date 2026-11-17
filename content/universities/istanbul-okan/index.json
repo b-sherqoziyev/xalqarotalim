@@ -1,0 +1,16 @@
+{
+  "id": "istanbul-okan",
+  "country": "turkey",
+  "city": "İstanbul",
+  "nativeName": "İstanbul Okan Üniversitesi",
+  "order": 8,
+  "name": {
+    "uz": "Istanbul Okan Universiteti",
+    "uz-cyrl": "Истанбул Окан Университети"
+  },
+  "cover": "/images/universities/istanbul-okan/40143905.webp",
+  "legacy": {
+    "uz": "/uzl/2024_22_istanbul_iou/",
+    "uz-cyrl": "/uzk/2024_22_istanbul_iou/"
+  }
+}

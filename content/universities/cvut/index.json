@@ -1,0 +1,16 @@
+{
+  "id": "cvut",
+  "country": "czechia",
+  "city": "Praha",
+  "nativeName": "České vysoké učení technické v Praze",
+  "order": 3,
+  "name": {
+    "ru": "Чешский технический университет (Прага)",
+    "en": "Czech Technical University (Prague)"
+  },
+  "cover": "/images/universities/cvut/40292342.webp",
+  "legacy": {
+    "ru": "/ru/2024_38_cz/praga/cvut/",
+    "en": "/en/2024_38_cz/praga/cvut/"
+  }
+}
