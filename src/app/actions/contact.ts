@@ -12,8 +12,6 @@ const schema = z.object({
     .regex(/^[+\d][\d\s()-]{6,20}$/),
   email: z.union([z.literal(""), z.email().max(150)]).optional().default(""),
   message: z.string().trim().max(2000).optional().default(""),
-  page: z.string().max(300).optional().default(""),
-  locale: z.string().max(10).optional().default(""),
   // honeypot: real people never fill this hidden field
   website: z.string().max(0).optional().default(""),
 });
@@ -34,7 +32,7 @@ export async function sendContact(_prev: ContactState, formData: FormData): Prom
     if (formData.get("website")) return { status: "success" };
     return { status: "invalid" };
   }
-  const { name, phone, email, message, page, locale } = parsed.data;
+  const { name, phone, email, message } = parsed.data;
 
   const token = process.env.TELEGRAM_BOT_TOKEN;
   const chatIds = (process.env.TELEGRAM_CHAT_ID ?? "")
@@ -51,9 +49,8 @@ export async function sendContact(_prev: ContactState, formData: FormData): Prom
     `<b>Ism:</b> ${escapeHtml(name)}`,
     `<b>Telefon:</b> ${escapeHtml(phone)}`,
     email ? `<b>E-pochta:</b> ${escapeHtml(email)}` : "",
-    message ? `<b>Xabar:</b> ${escapeHtml(message)}` : "",
-    page ? `<b>Sahifa:</b> ${escapeHtml(page)}` : "",
-    locale ? `<b>Til:</b> ${escapeHtml(locale)}` : "",
+    // the visitor's message is shown as a quote, separated from the contact details
+    message ? `<blockquote>${escapeHtml(message)}</blockquote>` : "",
   ]
     .filter(Boolean)
     .join("\n");

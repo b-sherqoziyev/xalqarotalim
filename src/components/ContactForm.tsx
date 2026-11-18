@@ -1,6 +1,5 @@
 "use client";
 
-import { usePathname } from "next/navigation";
 import { useActionState } from "react";
 import { sendContact, type ContactState } from "@/app/actions/contact";
 
@@ -23,16 +22,13 @@ type Labels = {
 
 export function ContactForm({
   labels,
-  locale,
   phone,
   telegram,
 }: {
   labels: Labels;
-  locale: string;
   phone: string;
   telegram: string;
 }) {
-  const pathname = usePathname();
   const [state, action, pending] = useActionState<ContactState, FormData>(sendContact, { status: "idle" });
 
   if (state.status === "success") {
@@ -55,8 +51,6 @@ export function ContactForm({
       <h3 className="text-2xl font-bold text-ink">{labels.title}</h3>
       <p className="mt-1 mb-6 text-muted">{labels.desc}</p>
 
-      <input type="hidden" name="page" value={pathname ?? ""} />
-      <input type="hidden" name="locale" value={locale} />
       <div aria-hidden className="absolute -left-[9999px] h-0 overflow-hidden">
         <label>
           Website <input type="text" name="website" tabIndex={-1} autoComplete="off" />

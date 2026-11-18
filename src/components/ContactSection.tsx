@@ -9,7 +9,6 @@ export function ContactFormBlock({ locale }: { locale: Locale }) {
   const s = getSettings();
   return (
     <ContactForm
-      locale={locale}
       phone={s.phones[0]}
       telegram={s.managers.education}
       labels={{
