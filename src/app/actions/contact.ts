@@ -23,8 +23,9 @@ function escapeHtml(s: string) {
 }
 
 /**
- * Sends a lead from the website to the team's Telegram chat.
+ * Sends a lead from the website to the team's Telegram chat(s).
  * Needs TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID environment variables (set them in Vercel).
+ * TELEGRAM_CHAT_ID may hold several ids separated by commas — every chat gets the message.
  */
 export async function sendContact(_prev: ContactState, formData: FormData): Promise<ContactState> {
   const parsed = schema.safeParse(Object.fromEntries(formData));
@@ -36,8 +37,11 @@ export async function sendContact(_prev: ContactState, formData: FormData): Prom
   const { name, phone, email, message, page, locale } = parsed.data;
 
   const token = process.env.TELEGRAM_BOT_TOKEN;
-  const chatId = process.env.TELEGRAM_CHAT_ID;
-  if (!token || !chatId) {
+  const chatIds = (process.env.TELEGRAM_CHAT_ID ?? "")
+    .split(/[,;\s]+/)
+    .map((id) => id.trim())
+    .filter(Boolean);
+  if (!token || chatIds.length === 0) {
     console.error("[contact] TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID is not configured");
     return { status: "error" };
   }
@@ -54,7 +58,7 @@ export async function sendContact(_prev: ContactState, formData: FormData): Prom
     .filter(Boolean)
     .join("\n");
 
-  try {
+  const sendTo = async (chatId: string) => {
     const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
       method: "POST",
       headers: { "content-type": "application/json" },
@@ -63,12 +67,14 @@ export async function sendContact(_prev: ContactState, formData: FormData): Prom
       cache: "no-store",
     });
     if (!res.ok) {
-      console.error("[contact] telegram error", res.status, await res.text().catch(() => ""));
-      return { status: "error" };
+      throw new Error(`chat ${chatId}: ${res.status} ${await res.text().catch(() => "")}`);
     }
-    return { status: "success" };
-  } catch (e) {
-    console.error("[contact] telegram request failed", e);
-    return { status: "error" };
+  };
+
+  // every admin gets the lead; one unreachable chat does not block the others
+  const results = await Promise.allSettled(chatIds.map(sendTo));
+  for (const r of results) {
+    if (r.status === "rejected") console.error("[contact] telegram error", r.reason);
   }
+  return results.some((r) => r.status === "fulfilled") ? { status: "success" } : { status: "error" };
 }
